@@ -4,8 +4,6 @@ Java programming
 
 A classic Brick Breaker game implemented in Java, demonstrating object-oriented programming principles, Java Swing GUI, event handling, and game development concepts.
 
-![Brick Breaker Game Screenshot](https://via.placeholder.com/800x600.png?text=Brick+Breaker+Game)
-
 ## Features
 
 - Complete game loop implementation with collision detection
